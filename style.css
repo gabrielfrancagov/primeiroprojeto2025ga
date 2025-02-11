@@ -5,8 +5,8 @@ img{
 }
 
 .cabecalho{
-width: 500px;
-height: 700px;
+width: fit-content;
+height: fit-content;
 background-color: greenyellow;
 
 
@@ -15,8 +15,8 @@ background-color: greenyellow;
 
 .primeirasecao{
 
-width: 700px; ;
-height: 900px;
+width: min-content; ;
+height: min-content;
 background-color: hotpink;
 
 
