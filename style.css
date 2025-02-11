@@ -5,8 +5,8 @@ img{
 }
 
 .cabecalho{
-width: fit-content;
-height: fit-content;
+width: 600px;
+height: 700px;
 background-color: greenyellow;
 
 
@@ -15,13 +15,15 @@ background-color: greenyellow;
 
 .primeirasecao{
 
-width: min-content; ;
-height: min-content;
-background-color: hotpink;
+width: 500px; ;
+height: 400px;
+background-color: rgb(255, 0, 0);
 
+}
 
+.divisao{
 
-
-
-
+width: 200px;
+height: 200px;
+background-color: black;
 }
